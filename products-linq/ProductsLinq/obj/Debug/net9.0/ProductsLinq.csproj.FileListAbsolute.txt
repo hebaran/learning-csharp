@@ -1,0 +1,14 @@
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\products-linq\ProductsLinq\bin\Debug\net9.0\ProductsLinq.exe
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\products-linq\ProductsLinq\bin\Debug\net9.0\ProductsLinq.deps.json
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\products-linq\ProductsLinq\bin\Debug\net9.0\ProductsLinq.runtimeconfig.json
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\products-linq\ProductsLinq\bin\Debug\net9.0\ProductsLinq.dll
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\products-linq\ProductsLinq\bin\Debug\net9.0\ProductsLinq.pdb
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\products-linq\ProductsLinq\obj\Debug\net9.0\ProductsLinq.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\products-linq\ProductsLinq\obj\Debug\net9.0\ProductsLinq.AssemblyInfoInputs.cache
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\products-linq\ProductsLinq\obj\Debug\net9.0\ProductsLinq.AssemblyInfo.cs
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\products-linq\ProductsLinq\obj\Debug\net9.0\ProductsLinq.csproj.CoreCompileInputs.cache
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\products-linq\ProductsLinq\obj\Debug\net9.0\ProductsLinq.dll
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\products-linq\ProductsLinq\obj\Debug\net9.0\refint\ProductsLinq.dll
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\products-linq\ProductsLinq\obj\Debug\net9.0\ProductsLinq.pdb
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\products-linq\ProductsLinq\obj\Debug\net9.0\ProductsLinq.genruntimeconfig.cache
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\products-linq\ProductsLinq\obj\Debug\net9.0\ref\ProductsLinq.dll

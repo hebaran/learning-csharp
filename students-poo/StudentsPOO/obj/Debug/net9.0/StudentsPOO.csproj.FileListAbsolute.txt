@@ -1,0 +1,14 @@
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\students-poo\StudentsPOO\bin\Debug\net9.0\StudentsPOO.exe
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\students-poo\StudentsPOO\bin\Debug\net9.0\StudentsPOO.deps.json
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\students-poo\StudentsPOO\bin\Debug\net9.0\StudentsPOO.runtimeconfig.json
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\students-poo\StudentsPOO\bin\Debug\net9.0\StudentsPOO.dll
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\students-poo\StudentsPOO\bin\Debug\net9.0\StudentsPOO.pdb
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\students-poo\StudentsPOO\obj\Debug\net9.0\StudentsPOO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\students-poo\StudentsPOO\obj\Debug\net9.0\StudentsPOO.AssemblyInfoInputs.cache
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\students-poo\StudentsPOO\obj\Debug\net9.0\StudentsPOO.AssemblyInfo.cs
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\students-poo\StudentsPOO\obj\Debug\net9.0\StudentsPOO.csproj.CoreCompileInputs.cache
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\students-poo\StudentsPOO\obj\Debug\net9.0\StudentsPOO.dll
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\students-poo\StudentsPOO\obj\Debug\net9.0\refint\StudentsPOO.dll
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\students-poo\StudentsPOO\obj\Debug\net9.0\StudentsPOO.pdb
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\students-poo\StudentsPOO\obj\Debug\net9.0\StudentsPOO.genruntimeconfig.cache
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\students-poo\StudentsPOO\obj\Debug\net9.0\ref\StudentsPOO.dll

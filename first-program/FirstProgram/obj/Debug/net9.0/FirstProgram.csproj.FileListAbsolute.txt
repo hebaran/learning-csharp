@@ -1,0 +1,14 @@
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\first-program\FirstProgram\bin\Debug\net9.0\FirstProgram.exe
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\first-program\FirstProgram\bin\Debug\net9.0\FirstProgram.deps.json
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\first-program\FirstProgram\bin\Debug\net9.0\FirstProgram.runtimeconfig.json
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\first-program\FirstProgram\bin\Debug\net9.0\FirstProgram.dll
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\first-program\FirstProgram\bin\Debug\net9.0\FirstProgram.pdb
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\first-program\FirstProgram\obj\Debug\net9.0\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\first-program\FirstProgram\obj\Debug\net9.0\FirstProgram.AssemblyInfoInputs.cache
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\first-program\FirstProgram\obj\Debug\net9.0\FirstProgram.AssemblyInfo.cs
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\first-program\FirstProgram\obj\Debug\net9.0\FirstProgram.csproj.CoreCompileInputs.cache
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\first-program\FirstProgram\obj\Debug\net9.0\FirstProgram.dll
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\first-program\FirstProgram\obj\Debug\net9.0\refint\FirstProgram.dll
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\first-program\FirstProgram\obj\Debug\net9.0\FirstProgram.pdb
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\first-program\FirstProgram\obj\Debug\net9.0\FirstProgram.genruntimeconfig.cache
+E:\Arquivos\Programacao\workspace\csharp\learning-csharp\first-program\FirstProgram\obj\Debug\net9.0\ref\FirstProgram.dll
