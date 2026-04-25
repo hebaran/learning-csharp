@@ -1,0 +1,15 @@
+D:\Arquivos\Programacao\workspace\csharp\learning-csharp\SimpleCalculator\bin\Debug\net10.0\SimpleCalculator.exe
+D:\Arquivos\Programacao\workspace\csharp\learning-csharp\SimpleCalculator\bin\Debug\net10.0\SimpleCalculator.deps.json
+D:\Arquivos\Programacao\workspace\csharp\learning-csharp\SimpleCalculator\bin\Debug\net10.0\SimpleCalculator.runtimeconfig.json
+D:\Arquivos\Programacao\workspace\csharp\learning-csharp\SimpleCalculator\bin\Debug\net10.0\SimpleCalculator.dll
+D:\Arquivos\Programacao\workspace\csharp\learning-csharp\SimpleCalculator\bin\Debug\net10.0\SimpleCalculator.pdb
+D:\Arquivos\Programacao\workspace\csharp\learning-csharp\SimpleCalculator\obj\Debug\net10.0\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\Programacao\workspace\csharp\learning-csharp\SimpleCalculator\obj\Debug\net10.0\SimpleCalculator.AssemblyInfoInputs.cache
+D:\Arquivos\Programacao\workspace\csharp\learning-csharp\SimpleCalculator\obj\Debug\net10.0\SimpleCalculator.AssemblyInfo.cs
+D:\Arquivos\Programacao\workspace\csharp\learning-csharp\SimpleCalculator\obj\Debug\net10.0\SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Arquivos\Programacao\workspace\csharp\learning-csharp\SimpleCalculator\obj\Debug\net10.0\SimpleCalculator.sourcelink.json
+D:\Arquivos\Programacao\workspace\csharp\learning-csharp\SimpleCalculator\obj\Debug\net10.0\SimpleCalculator.dll
+D:\Arquivos\Programacao\workspace\csharp\learning-csharp\SimpleCalculator\obj\Debug\net10.0\refint\SimpleCalculator.dll
+D:\Arquivos\Programacao\workspace\csharp\learning-csharp\SimpleCalculator\obj\Debug\net10.0\SimpleCalculator.pdb
+D:\Arquivos\Programacao\workspace\csharp\learning-csharp\SimpleCalculator\obj\Debug\net10.0\SimpleCalculator.genruntimeconfig.cache
+D:\Arquivos\Programacao\workspace\csharp\learning-csharp\SimpleCalculator\obj\Debug\net10.0\ref\SimpleCalculator.dll
